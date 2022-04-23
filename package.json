@@ -1,0 +1,20 @@
+{
+  "name": "hillel_hw-19_nodejs_calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey13111/Hillel_HW-19_NodeJS_calc.git"
+  },
+  "author": "Serhii Boiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey13111/Hillel_HW-19_NodeJS_calc/issues"
+  },
+  "homepage": "https://github.com/Sergey13111/Hillel_HW-19_NodeJS_calc#readme"
+}
